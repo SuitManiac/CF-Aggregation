@@ -12,7 +12,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://gist.githubusercontent.com/SuitManiac/cbfd4600bb3d8bb122c7baddc9f4bcbc/raw/abc3a7ef03953a077276bc3c60ab786cfe182dd2/clash.yaml
+https://gist.githubusercontent.com/SuitManiac/f1e118e68e6d50e2be0ea2d319aca161/raw/GIST
 `
 
 let urls = [];
